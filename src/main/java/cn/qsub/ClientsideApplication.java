@@ -1,4 +1,4 @@
-package cn.qsub.clientside;
+package cn.qsub;
  
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
